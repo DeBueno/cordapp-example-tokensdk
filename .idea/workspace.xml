@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../BBChain/corda/cordapp-example/cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../BBChain/example/cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Block Chain/Dev/cordapp-example-release-V3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../BlockChain/Dev/tutorials/cordapp-r3/corda-desafio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../BlockChain/Dev/tutorials/cordapp-r3/cordapp-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../BlockChain/Dev/tutorials/cordapp-r3/samples/cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../REDUX TUTORIAL/e-chain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../REDUX-TUTORIAL/e-chain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../REDUX-TUTORIAL/e-chain-corda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../corda/cordapp-template-kotlin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cordapp-template-kotlin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../samples/cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../samples/pigtail" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../samples2/cordapp-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../token-sdk" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="429" />
+    <option name="y" value="523" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555083374983" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
